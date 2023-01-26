@@ -1,0 +1,4 @@
+미분 표기법의 종류
+- Numerator layout : 미분 당하는 변수 (혹은 함수)를 기준으로 결과의 형태를 표기
+- Denumerator layout : 미분을 하는 변수(혹은 함수)를 기준으로 결과의 형태를 표기
+    • Numerator와 Denumerator는 transpose 관계
